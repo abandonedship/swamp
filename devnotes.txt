@@ -1,0 +1,23 @@
+# Dev notes
+
+# valid with: 
+awk
+bash
+cpan
+gawk
+java
+perl
+php
+php-daemon
+python
+socat
+
+# NOT VALID for not valid use nc -lvp 4444 listener
+C
+sbd   
+golang
+netcat
+nodejs
+ps1
+ruby
+telnet
